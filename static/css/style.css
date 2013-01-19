@@ -1,9 +1,18 @@
+.myName {
+	font-family: 'Ruthie', cursive;
+	margin-top: 2%;
+	margin-left: 8%;
+	margin-right: 75%;
+	border-style: dotted;
+	position: fixed;
+}
+
 .desc {
 	font-family: 'Crimson Text', serif;
 	text-align: justify;
 	text-justify: inter-word;
-	margin-top: 5em;
-	margin-left: 5em;
+	margin-top: 8%;
+	margin-left: 8%;
 	margin-right: 75%;
 	border-style: dotted;
 	position: fixed;
