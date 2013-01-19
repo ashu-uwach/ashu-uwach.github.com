@@ -12,7 +12,15 @@
 	text-align: justify;
 	text-justify: inter-word;
 	margin-top: 2%;
-	margin-left: 8%;
+	margin-left: 10%;
 	margin-right: 75%;
 	border-style: dotted;
+}
+
+.content {
+	font-family: 'Crimson Text', serif;
+	margin-top: 2%;
+	margin-left: 40%;
+	margin-right: 10%;
+	border-style:dotted;
 }
