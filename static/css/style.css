@@ -1,5 +1,7 @@
 .desc {
 	font-family: 'Crimson Text', serif;
+	text-align:justify;
+	text-justify:inter-word;
 	margin-top: 5em;
 	margin-left: 5em;
 	margin-right: 60em;
