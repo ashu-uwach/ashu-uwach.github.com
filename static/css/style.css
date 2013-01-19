@@ -3,7 +3,7 @@
 	font-size: 210%;
 	margin-top: 2%;
 	margin-left: 8%;
-	margin-right: 75%;
+	width: 250px;
 	border-style: dotted;
 }
 
@@ -11,9 +11,9 @@
 	font-family: 'Crimson Text', serif;
 	text-align: justify;
 	text-justify: inter-word;
-	margin-top: 2%;
 	margin-left: 10%;
 	margin-right: 75%;
+	width: 250px;
 	border-style: dotted;
 	float: left;
 }
@@ -21,8 +21,8 @@
 .content {
 	font-family: 'Crimson Text', serif;
 	margin-top: 2%;
-	margin-left: 40%;
 	margin-right: 10%;
+	width: 500px;
 	border-style:dotted;
 	float: right;
 }
