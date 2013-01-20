@@ -15,7 +15,7 @@ body {background-color:#f4f4f4; font-size:62.5%; line-height:28px; /* for RTL ad
 
 /* your main wrapping div */
 #wrapper{ margin: 0 auto; position:relative; overflow: hidden; width: 994px;background:#fff url(../images/sg_grid_sub.png) center top repeat; }
-#container{width:1008px; /* essential */ margin-left:-7px;}
+#container{width:1008px; /* essential */ margin-left:-7px; margin-top: 7px;}
 
 /* global styling to apply to all columns */
 .sg-1, .sg-2, .sg-3, .sg-4, .sg-5, .sg-6, .sg-7, .sg-8, .sg-9, .sg-10, .sg-11, .sg-12, .sg-13, .sg-14, .sg-15, .sg-16, .sg-17, .sg-18, .sg-19, .sg-20, .sg-21, .sg-22, .sg-23, .sg-24, .sg-25, .sg-26, .sg-27, .sg-28, .sg-29, .sg-30, .sg-31, .sg-32, .sg-33, .sg-34, .sg-35
