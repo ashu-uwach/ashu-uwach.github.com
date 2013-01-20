@@ -21,6 +21,7 @@ background-color: pink;
 
 .list {
 background-color: orange;
+float: right;
 }
 
 .content {
