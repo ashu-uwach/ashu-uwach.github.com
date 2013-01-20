@@ -8,6 +8,9 @@
 }
 
 .sidebar {
+	background-color: green;
+}
+
 
 
 .desc {
@@ -27,4 +30,5 @@
 	width: 500px;
 	border-style:dotted;
 	float: right;
+	background-color: black;
 }
