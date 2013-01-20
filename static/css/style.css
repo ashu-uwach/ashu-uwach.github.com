@@ -52,7 +52,7 @@
 }
 
 body {
-	color: #333333;
+	color: #333333 !important;
 }
 .desc {
 	font-family: 'Crimson Text', serif;
