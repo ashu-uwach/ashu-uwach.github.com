@@ -1,5 +1,12 @@
 /* RESET CSS by http://meyerweb.com/eric/tools/css/reset/ */
+html, body, div, span { margin:0; padding:0; border:0; outline:0;	font-size:100%; vertical-align:baseline; background:transparent;}
 body {line-height:1;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after, q:before, q:after {content:''; content:none;}
+:focus {outline:0;} /* remember to define focus styles! */
+ins {text-decoration:none;} /* remember to highlight inserts somehow! */
+del {text-decoration:line-through;} 
+table {border-collapse:collapse; border-spacing:0;} /* tables still need 'cellspacing="0"' in the markup */
 .clear { clear:both; display:block; overflow:hidden; visibility:hidden; width:0; height:0;} /* source: http://sonspring.com/journal/clearing-floats */
 
 /* BEGIN SQUARE GRID CODE */
