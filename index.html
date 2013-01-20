@@ -3,4 +3,10 @@ layout: default
 title: Blog of Saurabh
 ---
 
-I should have some content here soon.
+<ul id="posts">
+  {% for post in site.posts %}
+    <li>
+      {{ post.title }} {{ post.date | date: "%b %Y" }}
+    </li>
+  {% endfor %}
+</ul>
