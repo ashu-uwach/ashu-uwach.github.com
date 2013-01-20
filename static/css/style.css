@@ -1,5 +1,7 @@
-#container {
+body {
 	font-family: 'Crimson Text', serif;
+	font-size: 100%;
+	text-align: center;
 }
 
 .myName {
