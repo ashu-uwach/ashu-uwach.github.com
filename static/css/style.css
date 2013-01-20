@@ -106,6 +106,7 @@ a {
 }
 
 .title {
+	font-family: 'RosarioRegular', sans-serif;
 	font-size: 3em;
 }
 
@@ -118,6 +119,9 @@ a {
 	line-height: 2.1em;
 	text-align: justify;
 }
+
+p {
+	margin-bottom: 1.5em !important;
 
 .date {
 	font-size: 16px;
