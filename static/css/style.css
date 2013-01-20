@@ -1,3 +1,7 @@
+.body {
+	font-family: 'Crimson Text', serif;
+}
+
 .myName {
 	font-family: 'Ruthie', cursive;
 	font-size: 210%;
@@ -11,24 +15,6 @@
 	background-color: green;
 }
 
-.title {
-	background-color: blue;
-}
-
-.desc {
-background-color: pink;
-}
-
-.list {
-background-color: orange;
-float: right;
-}
-
 .content {
-	font-family: 'Crimson Text', serif;
-	margin-right: 10%;
-	width: 500px;
-	border-style:dotted;
-	float: right;
 	background-color: red;
 }
