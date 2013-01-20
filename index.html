@@ -4,14 +4,16 @@ title: Blog of Saurabh
 ---
 
 {% for post in site.posts %}
+<a href="{{ post.url }}">
 <div class="sg-35 box">
 	<div class="sg-30 title">
-		<a href="{{ post.url }}">{{ post.title }}</a>
+		{{ post.title }}
 	</div>
 	<div class="sg-3 date">
 		{{ post.date | date: "%b %Y" }}
 	</div>
 </div>
+</a>
 {% endfor %}
 
 
