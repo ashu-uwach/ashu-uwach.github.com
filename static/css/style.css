@@ -112,10 +112,10 @@ a {
 .words {
 	font-family: 'RosarioRegular', sans-serif;
 	background: white;
-	padding: 20px 30px 20px 30px !important;
+	padding: 2em 5em 2em 5em !important;
 	
-	font-size: 3em;
-	line-height: 3em;
+	font-size: 2.5em;
+	line-height: 2.1em;
 	text-align: justify;
 }
 
