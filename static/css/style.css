@@ -3,6 +3,12 @@
 	src: url("../font/Bariol.otf") format('opentype');
 }
 
+.desc {
+	font-family: 'Crimson Text', serif;
+	font-size: 100% !important;
+	text-align: justify;
+}
+
 a {
 	text-decoration: none;
 	color: black;
