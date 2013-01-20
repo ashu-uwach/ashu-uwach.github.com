@@ -1,6 +1,54 @@
 @font-face {
 	font-family: Bariol;
-	src: url("../font/Bariol.otf") format('opentype');
+	src: url('Bariol') format('opentype');
+}
+
+@font-face {
+    font-family: 'RosarioRegular';
+    src: url('Rosario-Regular-webfont.eot');
+    src: url('Rosario-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rosario-Regular-webfont.woff') format('woff'),
+         url('Rosario-Regular-webfont.ttf') format('truetype'),
+         url('Rosario-Regular-webfont.svg#RosarioRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RosarioItalic';
+    src: url('Rosario-Italic-webfont.eot');
+    src: url('Rosario-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rosario-Italic-webfont.woff') format('woff'),
+         url('Rosario-Italic-webfont.ttf') format('truetype'),
+         url('Rosario-Italic-webfont.svg#RosarioItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RosarioBold';
+    src: url('Rosario-Bold-webfont.eot');
+    src: url('Rosario-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rosario-Bold-webfont.woff') format('woff'),
+         url('Rosario-Bold-webfont.ttf') format('truetype'),
+         url('Rosario-Bold-webfont.svg#RosarioBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RosarioBoldItalic';
+    src: url('Rosario-BoldItalic-webfont.eot');
+    src: url('Rosario-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rosario-BoldItalic-webfont.woff') format('woff'),
+         url('Rosario-BoldItalic-webfont.ttf') format('truetype'),
+         url('Rosario-BoldItalic-webfont.svg#RosarioBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 .desc {
@@ -59,12 +107,12 @@ a {
 }
 
 .words {
-	font-family: 'Bariol', sans-serif;
+	font-family: 'RosarioRegular', sans-serif;
 	background: white;
 	padding: 20px 30px 20px 30px !important;
 	
-	font-size: 1.6em;
-	line-height: 1.6em;
+	font-size: 3em;
+	line-height: 3em;
 	text-align: justify;
 }
 
