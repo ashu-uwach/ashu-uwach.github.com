@@ -7,7 +7,7 @@ blockquote:before, blockquote:after, q:before, q:after {content:''; content:none
 ins {text-decoration:none;} /* remember to highlight inserts somehow! */
 del {text-decoration:line-through;} 
 table {border-collapse:collapse; border-spacing:0;} /* tables still need 'cellspacing="0"' in the markup */
-img {width:100%}
+img {width:auto;}
 .clear { clear:both; display:block; overflow:hidden; visibility:hidden; width:0; height:0;} /* source: http://sonspring.com/journal/clearing-floats */
 
 /* BEGIN SQUARE GRID CODE */

@@ -127,12 +127,9 @@ a {
 
 p {
 	margin-bottom: 1em !important;
+}
 
 .date {
 	font-size: 16px;
 	text-align: right;
-}
-	
-.footer {
-	background-color: purple;
 }
