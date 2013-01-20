@@ -1,3 +1,5 @@
+/* RESET CSS by http://meyerweb.com/eric/tools/css/reset/ */
+body {line-height:1;}
 .clear { clear:both; display:block; overflow:hidden; visibility:hidden; width:0; height:0;} /* source: http://sonspring.com/journal/clearing-floats */
 
 /* BEGIN SQUARE GRID CODE */
