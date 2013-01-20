@@ -1,6 +1,9 @@
-* {
+div {
+	border-style: solid;
+}
+
+body {
 	font-family: 'Crimson Text', serif;
-	border-style: solid; 
 }
 
 .myName {
