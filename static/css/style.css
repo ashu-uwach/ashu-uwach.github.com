@@ -1,3 +1,8 @@
+@font-face {
+	font-family: Bariol;
+	src: url("../font/Bariol.otf") format('opentype');
+}
+
 body {
 	font-family: 'Crimson Text', serif;
 	font-size: 100% !important;
@@ -43,8 +48,24 @@ a {
 	padding: 20px 0px 20px 0px !important;
 }
 
+.word-box {
+	background: #E8E8E8;
+	margin: 0px 0px 0px 0px !important;
+	padding: 20px 0px 20px 0px !important;
+}
+
 .title {
 	font-size: 40px;
+}
+
+.words {
+	font-family: 'Bariol', sans-serif;
+	background: white;
+	padding: 20px 30px 20px 30px !important;
+	
+	font-size: 1.6em;
+	line-height: 1.6em;
+	text-align: justify;
 }
 
 .date {

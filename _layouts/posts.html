@@ -35,9 +35,19 @@
 				</div>
       </div>
 			
-		<!-- Content -->
+      <!-- Content -->
       <div class="sg-35 content">
-				{{content}}
+					<div class="sg-35 word-box">
+						<div class="sg-30 title">
+							{{ post.title }}
+						</div>
+						<div class="sg-3 date">
+							{{ post.date | date: "%b %d, %Y" }}
+						</div>
+						<div class="clear"></div>
+						<div class="words">
+							{{content}}
+						</div>
 			</div>
       <div class="clear"></div>
 		</div> 
