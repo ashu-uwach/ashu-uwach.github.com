@@ -18,7 +18,7 @@
       <!-- Sidebar -->
 			<div class="sg-10 sidebar">
         <div class="sg-9 logo">
-						<a href="#">Saurabh Mandaokar</a>
+						<a href="../../../index.html">Saurabh Mandaokar</a>
 						<br />
 						<span id="tagline">
 							<a class="click-slide">Self-ish thoughts here</a>
@@ -42,7 +42,10 @@
 							{{page.title}}
 						</div>
 						<div class="sg-3 date">
-      {{ page.date | date: "%b %d, %Y" }}
+							{{ page.date | date: "%b %d, %Y" }}
+							{% if page.updated_at %}
+								<br> revised {{ page.updated_at | date: "%b %d, %Y" }}
+							{% endif %}
 						</div>
 						<div class="clear"></div>
 						<div class="words">
