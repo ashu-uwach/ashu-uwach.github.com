@@ -16,51 +16,48 @@
   <body>
     <div id="containter">
       <!-- Sidebar -->
-			<div class="sg-10 sidebar">
+      <div class="sg-10 sidebar">
         <div class="sg-9 logo">
-						<a href="#">Saurabh Mandaokar</a>
-						<br />
-						<span id="tagline">
-							<a class="click-slide">Self-ish thoughts here</a>
-							<br />
-							<a href="http://www.twitter.com/enitiz"><img src="../../../static/img/twitter.png" /></a>
-						</span>
-        </div>
-          <div class="sg-9 desc"><br>I come from a boring small 
-          <a href="http://goo.gl/maps/lwby3">town</a>.
+          <a href="#">Saurabh Mandaokar</a>
           <br />
-          <br />When desolated, you can find me reading, 
-          <a href="http://www.github.com/ice1mind/">coding</a> or preparing for exams; with my headphones, or maybe musing in a
-          corner about life, universe and everything.
-				</div>
+          <span id="tagline">
+            <a class="click-slide">Self-ish thoughts here</a>
+            <br />
+            <a href="http://www.twitter.com/enitiz">
+              <img src="../../../static/img/twitter.png" />
+            </a>
+          </span>
+        </div>
+        <div class="sg-9 desc">
+        <br />I come from a boring small 
+        <a href="http://goo.gl/maps/lwby3">town</a>.
+        <br />
+        <br />When desolated, you can find me reading, 
+        <a href="http://www.github.com/ice1mind/">coding</a> or preparing for exams; with my headphones, or maybe musing in a
+        corner about life, universe and everything.</div>
       </div>
-			
       <!-- Content -->
       <div class="sg-35 content">
-					<div class="sg-35 word-box">
-						<div class="sg-30 title">
-							{{ post.title }}
-						</div>
-						<div class="sg-3 date">
-							{{ post.date | date: "%b %d, %Y" }}
-						</div>
-						<div class="clear"></div>
-						<div class="words">
-							{{content}}
-						</div>
-			</div>
-      <div class="clear"></div>
-		</div> 
-    <!-- JS for slider -->
-    <script type="text/javascript">
-			$(".desc").hide();
+        <div class="sg-35 word-box">
+          <div class="sg-30 title">{{page.title}}</div>
+          <div class="sg-3 date">{{ page.date | date: &quot;%b %Y&quot; }} {% if page.updated_at %} revised {{ page.updated_at }}
+          {% endif %}</div>
+          <div class="clear"></div>
+          <div class="words">{{content}}</div>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <!-- JS for slider -->
+      <script type="text/javascript">
+                        $(&quot;.desc&quot;).hide();
       $(document).ready(function(){
-        $(".click-slide").click(function(){
-          $(".desc").slideToggle("slow");
-          $(this).toggleClass("active");
-					return false;
+        $(&quot;.click-slide&quot;).click(function(){
+          $(&quot;.desc&quot;).slideToggle(&quot;slow&quot;);
+          $(this).toggleClass(&quot;active&quot;);
+                                        return false;
         });
        });           
 </script>
+    </div>
   </body>
 </html>
