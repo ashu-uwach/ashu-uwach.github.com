@@ -18,7 +18,7 @@ No.
 
 Prohibition is generally use to stop people from committing sin, taboo, "bad things". They are made to stop you doing that. Who decides that? It's the people. Eg: Are you fine with consumption of cow-meat? No, right? The west does it, daily. Conversely, someone from west will get a culture shock ever find people shitting on the open. I see that daily. So it's down to people.
 
-Is it the problem of government? 
+Is it a problem of government? 
 
 No.
 
