@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 ---
 
 Saw this on a site today
@@ -8,7 +8,7 @@ Saw this on a site today
 
 Why not?
 
-In an ideal world, prohibition is the system's way of saying that, "Hey look buddy, *majority* of us do not like this act. Hence we forbid you from doing the same. The consequences will not be good." Everyone agrees. Everyone follow. Perfect enforcement. Desired results. World moves on.
+In an ideal world, prohibition is the system's way of saying that, "Hey look buddy, *majority* of us do not like this act. Hence we forbid you from doing the same. The consequences will not be good." Everyone agrees. Everyone follows. Perfect enforcement. Desired results. World moves on.
 
 So what stops, if not makes impossible, for a prohibition to serve its purpose? 
 
