@@ -13,14 +13,19 @@ In an ideal world, prohibition is the system's way of saying that, "Hey look bud
 So what stops, if not makes impossible, for a prohibition to serve its purpose? 
 
 Is West worse with less prohibitions?
+
 No.
+
 Prohibition is generally use to stop people from committing sin, taboo, "bad things". They are made to stop you doing that. Who decides that? It's the people. Eg: Are you fine with consumption of cow-meat? No, right? The west does it, daily. Conversely, someone from west will get a culture shock ever find people shitting on the open. I see that daily. So it's down to people.
 
 Is it the problem of government? 
+
 No.
+
 Our government, esp, gives knee jerk reactions to public uproar, or to gain goodwill of people, go ahead to form laws that exhibit prohibitions. Why do they do that? They want votes, which comes from people. One fine day they can ban gutkha, which you can see being distributed during elections. People will buy it. So its down to people.
 
 So what about people?
+
 Prohibition is for the people, and should be coming from the people. Period. We cannot blame government every time. Government will just do what people want to. If you want to take the 200/- free daaru during the elections, then you are at the loss. 
 
 People MUST get their ACT together, if they propose a prohibition. They should get to the ground realities. They first need to be clear, understand and be educated about what they want to prohibit. They should look around and not just talk about their opinions. You don't like daaru, then ask your dad what he thinks about it. Ask men of the locality. If you don't like it, speak to others about it. If you like it, then also speak. Don't just be caged in shallow thinking. (Unfortunately this is what the problem is, I believe.)
