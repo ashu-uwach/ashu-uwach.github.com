@@ -4,7 +4,7 @@ published: true
 ---
 
 Saw this on a site today
-## "Prohibition does not serve its purpose."
+> ## "Prohibition does not serve its purpose."
 
 Why not?
 
