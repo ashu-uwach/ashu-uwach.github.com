@@ -1,6 +1,6 @@
 ---
-layout: default
-published: false
+layout: post
+published: true
 ---
 
 Saw this on a site today
