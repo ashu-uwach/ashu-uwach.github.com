@@ -32,6 +32,6 @@ People MUST get their ACT together, if they propose a prohibition. They should g
 
 When people are really clear and determined to stick to the prohibition, ready to abide to them, and when lawmakers listen to them. We become close to the ideal situation. 
 
-The fact that Gujarat has successful prohibition of alcohol is because *majority* of people do in fact do not want to drink. They are really clear about it. They are following it for a long time. People are determined. This is the reason why the ban is working. (Or the men there are too limp to oppose it I guess  )
+Gujarat has a successful prohibition of alcohol is because *majority* of people there in fact do not want to consume those stuff. They are really clear about it and have been following it for a long time. These people are determined. Which is the reason why the ban is still working. (Or their men are too limp to oppose it I guess)
 
 TL;DR - Prohibition does serve its purpose, When people embrace and adhere to it wholeheartedly. Unfortunately in our complex nation, people are in state of flux. Government, and people themselves, take advantage of that.
