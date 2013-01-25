@@ -25,7 +25,7 @@ Link
 [GitHub](http://github.com)
 
 Image 
-![Logo](http://www.eso.org/public/archives/images/screen/eso1119b.jpg)
+<img src="http://www.eso.org/public/archives/images/screen/eso1119b.jpg" width=400 />
 
 Quote
 > Writing is thinking on paper. (no-more)
