@@ -187,8 +187,12 @@ a {
 	font-family: 'RosarioRegular', sans-serif;
 	background: white;
 	padding: 2em 5em 30px 5em !important;
-	
-	font-size: 16px;
+	font-size: 3em;
+	line-height: 1.5em;
+}
+
+p {
+	margin-bottom: 2em;
 }
 
 .date {
