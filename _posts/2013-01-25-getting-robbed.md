@@ -55,4 +55,8 @@ Today this phone was lying in a corner from the morning. I don't recall typing a
 
 Then I get this message in the Inbox: 
 
-> "Amount charged for VASOsian SMS Pack Rs:20.00 Current 
+> "Amount charged for VAS Osian SMS Pack Rs:20.00 Current Main Balance: Rs:2.31
+<img src="http://i.imgur.com/b2ps24I.jpg" width="400" />
+WTF is that? I never recall any pack by this name. Let alone doing something to subscribe it.
+
+After that I get this: 
