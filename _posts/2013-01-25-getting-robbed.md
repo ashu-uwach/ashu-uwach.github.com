@@ -37,17 +37,19 @@ Man: Too bad, but my master cannot be reached. *For one, he does not exist anymo
 
 Me: WTF? Then stop taking money from me. 
 
-Man: Okay. It'll be done. Soon.
+Man: Okay. It'll be done. Give me a small time.
 
 .
 .
 .
 
-The saga goes on endlessly. One day you loose your mind and kill the man, and stop being robbed.
+You were robbed until you protested. Had you not, he could rob you forever. 
 
 ### What should I do with Reliance / Smart GSM? These guys practice their business essentially same as the man above.
 
-I bought their sim about a month earlier. I don't talk much on the phone. Maybe 2 - 3 short calls per day on an average. Maybe this triggered something in their network service. I started receiving promotional calls, daily, sometimes twice a day, from numbers in series `140138912X`. I've grown accustomed to hang these calls as these recorded calls to subscribe their stuff, only bothers me. I ignored them. I knew I haven't signed for their 'Do not disturb' 'service'.
+I bought their sim about a month earlier. I don't talk much on the phone. Maybe 2 - 3 short calls per day on an average. Maybe this triggered something in their network service. I started receiving promotional calls, daily, sometimes twice a day, from numbers in series `140138912X`. 
+
+I've grown accustomed to hang them as these recorded calls to subscribe their stuff, only bothers me. I ignored them. I knew I haven't signed for their 'Do not disturb' 'service' (which is again, a painful and long process).
 
 But that was not enough for them, I guess.
 
@@ -57,6 +59,12 @@ Then I get this message in the Inbox:
 
 > "Amount charged for VAS Osian SMS Pack Rs:20.00 Current Main Balance: Rs:2.31
 <img src="http://i.imgur.com/b2ps24I.jpg" width="400" />
-WTF is that? I never recall any pack by this name. Let alone doing something to subscribe it.
+
+WTF is that? I don't recall any pack by this name. Let alone doing something to subscribe it. They robbed Rs 20 from my pocket, in other words. (Google for more victims)
 
 After that I get this: 
+
+> "You have been successfully subscribed to BeautyTips service for 20 days. To unsubscribe SMS Unsub 1530 to 155223 (Toll free)"
+<img src="http://i.imgur.com/QI7BZuK.jpg" width="400" />
+
+
