@@ -17,7 +17,7 @@ You gather some courage and question the man.
 
 You: Why do you taking my money forcibly?
 
-Man: Because you made a deal. Remember? You have an agreement with my master that **you** will receive an __imported lipstick__ from him every month. In return you have to hand me Rs 20 monthly. Like or not, I'll keep taking that amount from you.
+Man: Because you made a deal. Remember? You have an agreement with my master that **you** will receive an imported lipstick from him every month. In return you have to hand me Rs 20 monthly. Like or not, I'll keep taking that amount from you.
 
 You: Wait, WHAT?? I don't remember such an agreement and I'm not even a woman!!! Why the eff I'd need a **lipstick**, that too from *shady people like you*?
 
@@ -37,7 +37,7 @@ Man: Too bad, but my master cannot be reached. *For one, he does not exist anymo
 
 Me: WTF? Then stop taking money from me. 
 
-Man: If you want to stop me from doing this, talk to my master.
+Man: Okay. It'll be done. Soon.
 
 .
 .
@@ -45,4 +45,14 @@ Man: If you want to stop me from doing this, talk to my master.
 
 The saga goes on endlessly. One day you loose your mind and kill the man, and stop being robbed.
 
-### What should I do with 
+### What should I do with Reliance / Smart GSM? These guys practice their business essentially same as the man above.
+
+I bought their sim about a month earlier. I don't talk much on the phone. Maybe 2 - 3 short calls per day on an average. Maybe this triggered something in their network service. I started receiving promotional calls, daily, sometimes twice a day, from numbers in series `140138912X`. I've grown accustomed to hang these calls as these recorded calls to subscribe their stuff, only bothers me. I ignored them. I knew I haven't signed for their 'Do not disturb' 'service'.
+
+But that was not enough for them, I guess.
+
+Today this phone was lying in a corner from the morning. I don't recall typing anything  in it for the day.
+
+Then I get this message in the Inbox: 
+
+> "Amount charged for VASOsian SMS Pack Rs:20.00 Current 
