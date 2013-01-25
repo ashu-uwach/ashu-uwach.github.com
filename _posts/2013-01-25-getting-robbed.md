@@ -1,11 +1,11 @@
 ---
-layout: default
-published: false
+layout: post
+published: true
 ---
 
-### Imagine that you are living in a lawless world. 
+# Imagine living in a lawless world. 
 
-One fine day, you were walking through a *really* crowded place. You had a wallet. Inside it, a Rs 20 note. Someone pickpocketed you. It all happened in a flash. Before you were back in senses - it was too late to do anything about it.
+One fine day, you were walking through a *really* crowded place. You had a wallet. Inside it, a Rs 20 note. Someone pickpocketed you. It all happened in a flash. It was too late before you knew what happened.
 
 Next month, the same day, you went through the exact same place. A man confronted you, blocked your way, pointed a gun on your head, took out your wallet, picked Rs 20 and escaped. You were helpless again. But this time you came to know the guy.
 
@@ -17,9 +17,9 @@ You gather some courage and question the man.
 
 You: Why do you taking my money forcibly?
 
-Man: Because you made a deal. Remember? You have an agreement with my master that **you** will receive an imported lipstick from him every month. In return you have to hand me Rs 20 monthly. Like or not, I'll keep taking that amount from you.
+Man: Because you made a deal. Remember? You have an agreement with my master that **you** will receive an *imported lipstick* from him every month. In return you have to hand me Rs 20 monthly. Like or not, I'll keep taking that amount from you.
 
-You: Wait, WHAT?? I don't remember such an agreement and I'm not even a woman!!! Why the eff I'd need a **lipstick**, that too from *shady people like you*?
+You: Wait, WHAT?? I don't remember such an agreement and I'm not even a woman!!! Why the eff I'll need a **lipstick**, that too from *shady people like you*?
 
 The man shows a piece of paper. As you read it, you realize that what the man said was true. Yet, this is the first time you are reading this paper.
 
@@ -45,17 +45,19 @@ Man: Okay. It'll be done. Give me a small time.
 
 You were robbed until you protested. Had you not, he could rob you forever. 
 
-### What should I do with Reliance / Smart GSM? These guys practice their business essentially same as the man above.
+-------------------------------------
 
-I bought their sim about a month earlier. I don't talk much on the phone. Maybe 2 - 3 short calls per day on an average. Maybe this triggered something in their network service. I started receiving promotional calls, daily, sometimes twice a day, from numbers in series `140138912X`. 
+## What should I do with Reliance / Smart GSM? These guys practice their business essentially the same as the man above.
 
-I've grown accustomed to hang them as these recorded calls to subscribe their stuff, only bothers me. I ignored them. I knew I haven't signed for their 'Do not disturb' 'service' (which is again, a painful and long process). Today my phone was lying in a corner from the morning. I don't recall typing anything  in it for the day. Then I get this message in the Inbox: 
+I bought their sim about a month earlier. I don't talk much on the phone. Maybe 2 - 3 short calls per day on an average. Did this triggered something in their network service? Low income? I started receiving promotional calls, daily, sometimes twice a day, from numbers in series `140138912X`. 
+
+I hung them as these recorded calls to subscribe their 'stuff', only bothered me. I ignored them. I haven't signed for their 'Do not disturb' 'service' (which is again, a painful and long process). Today my phone was lying in a corner from the morning. I don't recall typing anything in it for the day. Then I got this message in the Inbox: 
 
 > "Amount charged for VAS Osian SMS Pack Rs:20.00 Current Main Balance: Rs:2.31
 
 <img src="http://i.imgur.com/b2ps24I.jpg" width="400" />
 
-WTF is that? I don't recall any pack by this name. Let alone doing something to subscribe it. They robbed Rs 20 from my pocket, in other words. (Google for more victims)
+WTF is that? I don't recall any pack by this name. Let alone doing something to subscribe it. They robbed Rs 20 from my pocket. (Google for more victims)
 
 Another piggybacked message waiting in my inbox: 
 
@@ -63,6 +65,14 @@ Another piggybacked message waiting in my inbox:
 
 <img src="http://i.imgur.com/QI7BZuK.jpg" width="400" />
 
-So not only my 20 rupees were taken, but I was automatically subscribed to something I never want. All these without my permission. But they made it look like I have myself subscribed to it.
+Not only my 20 rupees were taken, but I was automatically subscribed to something I never wanted. All this - without my permission. But they made it look like I have myself did it. Shady.
 
-Since Rs 20 is really a small amount for them and 20 days subscription - it is like giving a demo. But if they can do this, they can easily make me a permanant subscriber of *anything* they want without my consent and charge me.  
+Since Rs 20 is really a small amount for them and 20 days subscription - is like giving a demo. *Who cares! Just a small thing. Right?*
+
+**Wrong!** If they can do this, they can easily make me a permanant subscriber of *anything* without my consent and start charging. This way, they will get money even I don't really use my phone for a month, unless I keep track of my inbox and notice incosisteies in how much I call and how much I'm charged.
+
+The good thing is that at least I was able to unsubscribe - never expected to. 
+
+I'll overlook this as it is the first time. Hope such auto-subscribed-money-gone incidents will not occur again.
+
+Now excuse me - I have to recharge my phone again!
