@@ -7,7 +7,7 @@ published: false
 
 One fine day, you were walking through a *really* crowded place. You had a wallet. Inside it, a Rs 20 note. Someone pickpocketed you. It all happened in a flash. Before you were back in senses - it was too late to do anything about it.
 
-Next month, the same day, you go through the exact same place. A man confronts you, blocks your way, points a gun on your head, takes out your wallet, picks up Rs 20 and escapes. You were helpless again but this time you came to know the guy.
+Next month, the same day, you went through the exact same place. A man confronted you, blocked your way, pointed a gun on your head, took out your wallet, picked Rs 20 and escaped. You were helpless again. But this time you came to know the guy.
 
 Come next month, the same situation occours at the same place. This time you are ready with Rs 20 in your hand. The man shows up. You hand him Rs 20.
 
@@ -27,12 +27,22 @@ Me: Look, I have never seen this agreement before and I never signed it. Heck! T
 
 Man: Seems like you forgot but I showed this when you were being pickpocketed the first time. It's your fault that you did not read it. I had it in my hand all the time while I was taking out your wallet. You could have stopped me.
 
-Me: WTF? There was no way I could read that, you did not show it to me properly. You are charging me for an agreement I never agreed to. STOP THIS. NOW!
+Me: There is no way I could have read that, you did not show it to me properly. You are charging me for an agreement I never agreed to. **STOP THIS. NOW!**
 
 Man: If you want to stop me from doing this, talk to my master.
 
 Me: Tell me how to meet your master. I want this stuff cancelled as soon as I meet him.
 
-Man: Too bad, but my master cannot be reached. For one, he does not exist anymore.
+Man: Too bad, but my master cannot be reached. *For one, he does not exist anymore.*
 
 Me: WTF? Then stop taking money from me. 
+
+Man: If you want to stop me from doing this, talk to my master.
+
+.
+.
+.
+
+The saga goes on endlessly. One day you loose your mind and kill the man, and stop being robbed.
+
+### What should I do with 
