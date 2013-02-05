@@ -5,9 +5,9 @@ title: Life Stories of Saurabh
 
 {% for post in site.posts %}
 <p>    
-    <span class="post_date">{{ post.date | date: "%b %d, %Y" }} &raquo; </span>
     <a href="{{ post.url }}">
         <span class="post_title">{{ post.title }}</span>
-    </a>
+    </a>    
+    <span class="post_date">{{ post.date | date: "%b %d, %Y" }}</span>
 </p>
 {% endfor %}
