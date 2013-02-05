@@ -62,7 +62,7 @@ nav li {
     font-family: Arvil, sans-serif;
     font-size: 80px;
     color: purple;
-    text-shadow: 1px 1px 1px rgb(121,0,0); 
+    text-shadow: 1px 1px 1px #fff; 
     word-spacing: 5px;
     margin-left: 67px;
     margin-right: 66px; 
@@ -89,7 +89,7 @@ header {
     font-family: Arvil, sans;
     font-size: 70px;
     color: purple;
-    text-shadow: 1px 1px 1px rgb(121,0,0);
+    text-shadow: 1px 1px 1px #fff;
     border-radius: 2px;
     vertical-align: top;
 }
