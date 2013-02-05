@@ -11,9 +11,9 @@
         
             <nav>
                 <ul>
-                    <li class="nav_to">&laquo;</li>
+                    <li class="nav_to"><a href="{{page.previous.url}}">&laquo;</a></li>
                     <li id="nav_title">Life Stories</li>
-                    <li class="nav_to">&raquo;</li>
+                    <li class="nav_to"><a href="{{page.previous.url}}">&raquo;</a></li>
                 </ul>
             </nav>
             
@@ -23,7 +23,6 @@
             
             <div id="fade_box">
                 <div id="content">
-                    {{page.previous.url}}
                     {{ content }}
                 </div>    
             </div>
