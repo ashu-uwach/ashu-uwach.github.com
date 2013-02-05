@@ -1,17 +1,13 @@
 ---
 layout: home
-title: Saurabh
+title: Life Stories of Saurabh
 ---
 
 {% for post in site.posts %}
-<a href="{{ post.url }}">
-<div class="sg-35 box">
-	<div class="sg-29 title">
-		{{ post.title }}
-	</div>
-	<div class="sg-4 date">
-		{{ post.date | date: "%b %d, %Y" }}
-	</div>
-</div>
-</a>
+<p>    
+    <span class="post_date">{{ post.date | date: "%b %d, %Y" }}</span>
+    <a href="{{ post.url }}">
+        &raquo; <span class="post_title">{{ post.title }}</span>
+    </a>
+</p>
 {% endfor %}

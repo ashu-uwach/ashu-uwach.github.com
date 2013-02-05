@@ -115,3 +115,14 @@ a {
 .center {
     text-align: center;
 }
+
+#post_date {
+    font-size: 9px;
+}
+
+#post_title {
+    font-family: Arvil, sans;
+    font-size: 36px;
+    color: purple;
+    text-shadow: 1px 1px 1px #fff;
+}
