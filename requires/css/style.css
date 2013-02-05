@@ -117,9 +117,10 @@ a {
 }
 
 .post_date {
-    font-size: 9px;
+    font-size: 13px;
     color: purple;
-    vertical-align: text-bottom;
+    float: right;
+    text-shadow: 1px 1px 1px rgb(121,0,0);
 }
 
 .post_title {
