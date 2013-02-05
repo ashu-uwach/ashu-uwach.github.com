@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{page.title}}</title>
+        <link rel="stylesheet" type="text/css" media="all" href="css/style.css">
+        <link rel="stylesheet" type="text/css" media="all" href="css/onepcssgrid.css">
+        <link rel="stylesheet" type="text/css" media="all" href="css/fonts.css">
+    </head>
+    <body>
+        <div id="container">
+        
+            <nav>
+                <ul>
+                    <li class="nav_to">&laquo;</li>
+                    <li id="nav_title">Life Stories</li>
+                    <li class="nav_to">&raquo;</li>
+                </ul>
+            </nav>
+            
+            <header>
+                {{ page.title }}
+            </header>
+            
+            <div id="fade_box">
+                <div id="content">
+                    {{ content }}
+                </div>    
+            </div>
+            
+            <footer>
+                <div class="center">&copy; <a href="#">Saurabh Mandaokar</a> 2013</div>
+            </footer>
+        </div>
+    </body>
+</html>

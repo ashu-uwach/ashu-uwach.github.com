@@ -1,0 +1,117 @@
+body {
+    background-image:url("../img/bg/dark/fake_brick.png");
+    margin: 0px;
+}
+
+#container {
+    width: 480px;
+    margin: auto;
+    border-radius: 3px;
+}
+
+nav {
+    background-image:url("../img/bg/dark/stressed_linen.png");
+    border-style: dashed;
+    border-color: purple;
+    border-width: 1px;
+    position:fixed;
+    width: inherit;
+    z-index: 4;
+}
+
+#fade_box {
+
+}
+
+#content {
+    font-family: Meta, sans-serif;
+    color: #c3c3c3;
+    background-image:url("../img/bg/dark/stressed_linen.png");
+    padding: 20px 50px 20px 50px;
+    position: absolute;
+    margin-top: 115px;
+    width: 380px;
+    z-index: 0;
+    text-align: justify;
+    border-style: dashed;
+    border-color: purple;
+    border-width: 1px;
+    border-top: none;
+}
+
+p {
+    line-height: 25px;    
+}
+
+p + p {
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-top: -8px;
+    margin-bottom: -4px;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+#nav_title {
+    font-family: Arvil, sans-serif;
+    font-size: 80px;
+    color: purple;
+    text-shadow: 1px 1px 1px #fff; 
+    word-spacing: 5px;
+    margin-left: 67px;
+    margin-right: 66px; 
+}
+
+header {
+    background-image:url("../img/bg/dark/stressed_linen.png");
+    font-family: Arvil, sans;
+    font-size: 36px;
+    color: purple;
+    text-shadow: 1px 1px 1px #fff;
+    text-align: center;
+    border-style: dashed;
+    border-color: purple;
+    border-width: 1px;
+    border-top: none;
+    position:fixed;
+    width: inherit;
+    margin-top: 75px;
+    z-index: 4;
+}
+
+.nav_to {
+    font-family: Arvil, sans;
+    font-size: 70px;
+    color: purple;
+    text-shadow: 1px 1px 1px #fff;
+    border-radius: 2px;
+    vertical-align: top;
+}
+
+footer {
+    background-image:url("../img/bg/dark/stressed_linen.png");
+    border-style: dashed;
+    border-color: purple;
+    border-width: 1px;
+    font-family: Meta, sans-serif;
+    color: white;
+    font-size: 9px;
+    position:fixed;
+    width: 480px;
+    bottom: 0px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}

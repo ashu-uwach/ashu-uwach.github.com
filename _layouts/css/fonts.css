@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Arvil;
+    src: url("../font/blog_title/Arvil_Sans.ttf");
+}
+
+@font-face {
+    font-family: 'Meta';
+    src: url('../font/content/Metrophobic-webfont.eot');
+    src: url('../font/content/Metrophobic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/content/Metrophobic-webfont.woff') format('woff'),
+         url('../font/content/Metrophobic-webfont.ttf') format('truetype'),
+         url('../font/content/Metrophobic-webfont.svg#MetrophobicRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
