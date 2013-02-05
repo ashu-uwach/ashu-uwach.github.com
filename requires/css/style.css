@@ -118,6 +118,7 @@ a {
 
 .post_date {
     font-size: 9px;
+    vertical-align: text-bottom;
 }
 
 .post_title {
