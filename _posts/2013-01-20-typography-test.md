@@ -5,8 +5,6 @@ published: true
 
 Hello world. I've set up this blog, obviously to do what everyone else does, but also to make it by scratch. It is very simple in design, still maturing, and will take some time until I am satisfied with it.
 
-~I have used Square CSS grid framework and some fonts, placed in my github repo.~ Not more in the new layout.
-
 As a first post, I better try some typography and element tests.
 
 # Heading 1
