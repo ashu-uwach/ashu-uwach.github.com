@@ -51,6 +51,14 @@ nav li {
     vertical-align: top;
 }
 
+.nav_dis {
+    font-family: Arvil, sans;
+    font-size: 70px;
+    text-shadow: 1px 1px 1px #fff;
+    border-radius: 2px;
+    vertical-align: top;
+}
+
 header {
     background-image:url("../img/bg/dark/stressed_linen.png");
     font-family: Arvil, sans;
