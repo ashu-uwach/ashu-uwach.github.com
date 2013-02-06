@@ -5,8 +5,7 @@ body {
 
 #container {
     width: 480px;
-/*    margin: auto;*/
-    border-radius: 3px;
+    margin: auto;
 }
 
 nav {
