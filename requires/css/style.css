@@ -1,5 +1,5 @@
 body {
-    background-image:url("../img/bg/dark/fake_brick.png");
+    background-color:black;
     margin: 0px;
 }
 
@@ -52,6 +52,7 @@ nav ul {
     margin-top: -8px;
     margin-bottom: -4px;
     padding: 0;
+    text-align:center;
 }
 
 nav li {
@@ -64,8 +65,10 @@ nav li {
     color: purple;
     text-shadow: 1px 1px 1px #fff; 
     word-spacing: 5px;
-    margin-left: 67px;
-    margin-right: 66px; 
+    margin-top: -8px;
+    margin-bottom: -4px;
+    padding: 0;
+    text-align: center;
 }
 
 header {
@@ -114,6 +117,14 @@ a {
 
 .center {
     text-align: center;
+}
+
+.left{
+    float:left;
+}
+
+.right {
+    float: right;
 }
 
 .post_date {
