@@ -12,9 +12,17 @@
         <div id="container">
             <nav>
                 <ul>
-                    <li class="nav_to left"><a href="{{page.previous.url}}"><<<</a></li>
+                    {% if page.previous %} 
+                        <li class="nav_to left"><a href="{{page.previous.url}}"><<<</a></li>
+                    {% else %}
+                        <li class="nav_dis left"><a href="{{page.url}}"><<<</a></li>
+                    {% endif %}    
                     <li><span id="nav_title"><a href="../../../index.html">Life Stories</a></span></li>
-                    <li class="nav_to right"><a href="{{page.next.url}}">>>></a></li>
+                    {% if page.next %} 
+                        <li class="nav_to right"><a href="{{page.next.url}}">>>></a></li>
+                    {% else %}
+                        <li class="nav_dis right"><a href="{{page.url}}">>>></a></li>
+                    {% endif %} 
                 </ul>
             </nav>
             
