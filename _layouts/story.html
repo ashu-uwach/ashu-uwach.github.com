@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
     <head>
         <title>{{page.title}}</title>
         <link rel="stylesheet" type="text/css" media="all" href="../../../requires/css/style.css">
@@ -20,8 +20,9 @@
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));
 		</script>
-		<!-- Facebook JS -->
-        <div id="container">
+		<!-- End Facebook JS -->
+        
+		<div id="container">
             <nav>
                 <ul>
                     {% if page.previous %} 
@@ -39,15 +40,16 @@
             </nav>
             
             <header>
-                <a href="{{page.url}}">{{ page.title }}</a>
+			<a href="{{page.url}}">{{ page.title }}</a>
             </header>
             
             <div id="content">
-                {{ content }}
+			{{ content }}
             </div>    
             
             <footer>
-				<div class="fb-comments" data-href="http://ice1mind.github.com{{page.url}}" data-width="480" data-num-posts="3" data-colorscheme="dark"></div>
+			<!-- <div class="fb-comments" data-href="http://ice1mind.github.com{{page.url}}" data-width="480" data-num-posts="10" data-colorscheme="dark"></div> -->
+			<fb:comments href="http://ice1mind.github.com{{page.url}}" width="480" num_posts="10" colorscheme="dark"></fb:comments>
             </footer>
         </div>
     </body>
