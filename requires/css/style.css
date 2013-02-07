@@ -89,6 +89,14 @@ a {
     text-decoration: none;
 }
 
+p a {
+    text-shadow: 0px 1px 1px rgb(0, 106, 221);
+}
+
+p a:hover {
+    color: rgb(0,106, 221);
+}
+
 footer {
     font-family: Meta, sans-serif;
     font-size: 9px;
